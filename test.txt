@@ -3,4 +3,11 @@ git add .
 git commit -m '何を変更したのか'
 git push origin HEAD:master
 
-カラオケの鉄人には一生来ません
+更新の手順
+git fetch
+git checkout '行きたいブランチ'
+
+ブランチを切る
+git fecth
+git branch -a
+git checkout -b 新たなブランチ名　切る元のブランチ名
