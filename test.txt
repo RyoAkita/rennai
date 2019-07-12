@@ -1,7 +1,7 @@
 変更を加えた時
 git add .
 git commit -m '何を変更したのか'
-git push origin HEAD:master
+git push origin 変更を加えたいブランチ名
 
 更新の手順
 git fetch
