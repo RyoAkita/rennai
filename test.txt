@@ -2,3 +2,5 @@
 git add .
 git commit -m '何を変更したのか'
 git push origin HEAD:master
+
+カラオケの鉄人には一生来ません
