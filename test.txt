@@ -1,1 +1,4 @@
-このようにgithubとは多くの人と共同作業をすることができるためのソフトウェアである。
+変更を加えた時
+git add .
+git commit -m '何を変更したのか'
+git push origin HEAD:master
